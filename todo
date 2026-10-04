@@ -1,0 +1,4 @@
+[x] change the background color of the buttons to orange
+[x] the onboarding screen should appear only once
+[x] after signup, on onboarding screen dont ask for first and lastname because during signup user has already entered that info
+[x] create some demo db entries from chatgpt and feed them into db (create a script for that)
